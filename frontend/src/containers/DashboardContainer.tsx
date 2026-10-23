@@ -1,0 +1,7 @@
+import DashboardComponent from "../components/DashboardComponent";
+
+function DashboardContainer() {
+  return <DashboardComponent />;
+}
+
+export default DashboardContainer;
